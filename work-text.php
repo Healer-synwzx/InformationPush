@@ -55,7 +55,7 @@ $url = "https://qyapi.weixin.qq.com/cgi-bin/message/send?access_token=".$ACCESS_
 $MsgArray=array();
 
 //推送的应用id
-$MsgArray["agentid"]="应用代码";
+$MsgArray["agentid"]="应用ID";
 
 //标题是可选值
 if(!isset($_REQUEST['title'])){
