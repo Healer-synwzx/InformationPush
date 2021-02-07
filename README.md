@@ -11,11 +11,11 @@
 企业微信测试推送:http://域名/work.php?msg=测试提交  
 小米系统级推送:http://域名/index.php?id=推送id&title=标题(可选值)&msg=测试提交数据
 
-[微信推送说明](https://github.com/kaixin1995/InformationPush/blob/master/readme/weixin.md)  |  [企业微信推送说明](https://github.com/kaixin1995/InformationPush/blob/master/readme/work.md)   |  [开心推送(小米推送)说明](https://github.com/kaixin1995/InformationPush/blob/master/readme/MiPush.md)
+[微信推送说明](https://github.com/Healer-synwzx/InformationPush/blob/master/readme/weixin.md)  |  [企业微信推送说明](https://github.com/Healer-synwzx/InformationPush/blob/master/readme/work.md)   |  [开心推送(小米推送)说明](https://github.com/Healer-synwzx/InformationPush/blob/master/readme/MiPush.md)
 
 ### QQ推送：现在已经有了QQ推送的轮子，就不重复写了，详情可以了解一下[酷Q](https://cqp.cc/)和[CoolQ HTTP API 插件](https://cqhttp.cc/),无论是推送个人还是推送群都是十分不错的。
 
-### 小米推送可以使用我写好的安装包，安装后打开里面会自动生成推送代码，使用http进行推送  [小米推送成品下载](https://www.lanzous.com/i64tj3g)
-![成品图](https://github.com/kaixin1995/InformationPush/blob/master/image/%E5%BA%94%E7%94%A8%E6%88%AA%E5%9B%BE.png)  
+### 小米推送可以使用我写好的安装包，安装后打开里面会自动生成推送代码，使用http进行推送  [小米推送成品下载]()
+![成品图](https://github.com/Healer-synwzx/InformationPush/blob/master/image/%E5%BA%94%E7%94%A8%E6%88%AA%E5%9B%BE.png)  
 
 ### 代码其实很简单，没有什么技术难度，本来想到网上找一个直接用的，找了许久都没找到一个合适的，所以就借助强大的搜索引擎来写一个，提醒页面做的特别粗糙，因为美工无力，就这也是强行扒别人的。
